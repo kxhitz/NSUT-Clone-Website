@@ -1,5 +1,5 @@
 # NSUT-Clone-Website
-## NSUT Clone Website ##
+## First Ever Project ##
 
 The NSUT website is a static website built using HTML and CSS. It provides information about the university, including details about the administration, academics, admissions, alumni, media, campus life, and more.
 
